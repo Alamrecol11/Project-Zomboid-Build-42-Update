@@ -14,7 +14,7 @@ The application provides a simple interface for updating the game, backing up sa
 
 ## Screenshots
 
-![photo]()
+![photo](Data/446c128e-bfd4-4890-add5-2049162bfb1a.png)
 
 ## Features
 
