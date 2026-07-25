@@ -48,11 +48,7 @@ The application provides a simple interface for updating the game, backing up sa
 
 ## Installation
 
-### Clone the repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/pz-build42-updater.git
-```
+[Download Release](https://github.com/Alamrecol11/Project-Zomboid-Build-42-Update/releases/tag/Release)
 
 ### Build
 
@@ -101,6 +97,6 @@ This project is licensed under the MIT License.
 
 ## Disclaimer
 
-This project is an independent open-source utility and is **not affiliated with, endorsed by, or sponsored by The Indie Stone or Project Zomboid**.
+This project is an independent open-source utility
 
 Project Zomboid™ is a trademark of The Indie Stone.
